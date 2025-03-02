@@ -65,6 +65,7 @@
 38. [Ecosystem Design Toolkit](https://github.com/st8tikratio/ecosystem-design-toolkit) - An ideology-free design toolkit for digital ecosystem design
 39. [TextSum GAN](https://github.com/st8tikratio/textsum-gan) - Tensorflow re-implementation of GAN for text summarization
 40. [Extractive Document Summarization](https://github.com/st8tikratio/extractive-document-summarization) - Extractive Document Summarization Based on Convolutional Neural Networks
+41. [CF Cardano Economic Parameters Insight Repo](https://github.com/st8tikratio/cf-cardano-econ-params)
 
 
 
