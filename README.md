@@ -20,6 +20,7 @@
 5. [Token Engineering Fundamentals Course - 2022](https://github.com/st8tikratio/TE_fundamentals_course_2022) - personal collection of notes
 6. [ML](https://github.com/st8tikratio/ML)
 7. [Gitbook](https://github.com/st8tikratio/gitbook)
+8. [YAML - Form Templates](https://github.com/st8tikratio/yaml)
 
 ## ASSOCIATED
 1. [The DRep Collective](https://github.com/DRep-Collective/.github/blob/main/profile/README.md)
