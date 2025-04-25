@@ -14,7 +14,7 @@
 
 ### Private
 1. [Scratch](https://github.com/st8tikratio/scratch) - notes
-2. [The-Collective](https://github.com/st8tikratio/the-collective) - notes/scrath on the DRep Collective
+2. [The-Collective](https://github.com/st8tikratio/the-collective) - notes/scratch on the DRep Collective
 3. [Fiends-And-More](https://github.com/st8tikratio/fiends-and-more) - social work on tutorials and education
 4. [MD](https://github.com/st8tikratio/md) - collection of markdown notes migrated from HackMD
 5. [Token Engineering Fundamentals Course - 2022](https://github.com/st8tikratio/TE_fundamentals_course_2022) - personal collection of notes
