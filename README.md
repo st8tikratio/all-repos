@@ -21,7 +21,7 @@
 6. [ML](https://github.com/st8tikratio/ML)
 7. [Gitbook](https://github.com/st8tikratio/gitbook)
 8. [YAML - Form Templates](https://github.com/st8tikratio/yaml)
-9. [Art-Future - Comparison of physical art media](https://github.com/st8tikratio/art-future)
+9. [Art-Future](https://github.com/st8tikratio/art-future) - Comparison of physical art media
 
 ## ASSOCIATED
 1. [The DRep Collective](https://github.com/DRep-Collective/.github/blob/main/profile/README.md)
